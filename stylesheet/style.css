@@ -1,0 +1,44 @@
+.container-fluid {
+    background: #111111;
+    height: auto
+}
+
+.header-font {
+    color: #ffffff;
+    font-size: 50px;
+    font-family: 'Source Sans Pro', sans-serif;
+    line-height: inherit;
+}
+
+.content-font {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100
+}
+
+.btn-primary {
+    border-radius: 16px;
+    background: transparent
+}
+
+.animate:hover {
+    transition: .6s;
+    background: white;
+    color: #111111
+}
+
+.copyright-text {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    font-size: 10.5px;
+    color: #ffffff
+}
+
+.text-alignment {
+    padding-left: 2.5%
+}
+
+.cursor {
+    cursor: pointer
+}
